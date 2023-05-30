@@ -1,2 +1,0 @@
-# ryanscareer
-ini repository
